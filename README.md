@@ -12,7 +12,7 @@ The questions I have to be answered that I can find out through data manipulatio
 - [ ]    4. Is there a trend between the review count and the rating?
 - [ ]    5. Which writer shows up most often in this dataset?
 - [ ]    6. Which director shows up most often in this dataset?
-- [ ]    7. Which actors show up most often in this dataset?
+- [ ]    7. Is there a correlation between the number of main cast actors and the ratings of the movies?
 - [ ]    8. Is there a correlation between movie length and rating?
 - [ ]    9. How correlated are the ranks and the ratings of the movies?
 - [ ]    10. Of the directors that show up the most on this list, is there a correlation between what year they released said movie and its rank on the list?
