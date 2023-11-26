@@ -6,9 +6,9 @@ I will be using mainly the Seaborn and Pandas library to manipulate this data an
 
 The questions I have to be answered that I can find out through data manipulation and visualization are as follows:
     
-- [ ]    1. What age rating appears the most in this dataset?
-- [ ]    2. What time period appears most common in this dataset?
-- [ ]    3. Which Genre appears most often in this dataset?
+- [ ]    1. What age ratings appears the most in this dataset?
+- [ ]    2. What time periods appear the most in this dataset?
+- [ ]    3. Which genres appear most often in this dataset?
 - [ ]    4. Is there a trend between the review count and the rating?
 - [ ]    5. Which writer shows up most often in this dataset?
 - [ ]    6. Which director shows up most often in this dataset?
