@@ -1,19 +1,20 @@
 # HackTheHood Final Lowest Rated Movies
 
-This dataset that I chose gives data on the 100 lowest ranked movies on IMDb. 
-I chose it because this dataset seemed to be easy to use and it seemed to have interesting questions to ask about it.
+This dataset that I chose gives data on salary information about various jobs from assorted industries around the world. 
+I chose it because this dataset seemed to be easy to use and there seemed to be interesting questions that could be asked about it.
 I will be using mainly the Seaborn and Pandas library to manipulate this data and find out what I can from it.
 
 The questions I have to be answered that I can find out through data manipulation and visualization are as follows:
     
-- [ ]    1. What age ratings appears the most in this dataset?
-- [ ]    2. What time periods appear the most in this dataset?
-- [ ]    3. Which genres appear most often in this dataset?
-- [ ]    4. Is there a trend between the review count and the rating?
-- [ ]    5. Which writer shows up most often in this dataset?
-- [ ]    6. Which director shows up most often in this dataset?
-- [ ]    7. Is there a correlation between the number of main cast actors and the ratings of the movies?
-- [ ]    8. Is there a correlation between movie length and rating?
-- [ ]    9. How correlated are the ranks and the ratings of the movies?
-- [ ]    10. Of the directors that show up the most on this list, is there a correlation between what year they released said movie and its rank on the list?
+- [ ]1. Make a histogram of all the salaries.
+- [ ]2. Make a pie chart of all the job titles in the data set. Which appears the most common?
+- [ ]3. What is the correlation between gender and salary?
+- [ ]4. Is there a disparity among race and salary?
+- [ ]5. How does age, education level and years of experience correlate with salary?
+- [ ]6. Which of the genders is more represented in this list?
+- [ ]7. What is the correlation between seniority and race?
+- [ ]8. Is there a disparity between seniority and years of experience?
+- [ ]9. What jobs on average are the highest paying?
+- [ ]10. What jobs are the lowest paying?
+
 
