@@ -7,7 +7,7 @@ I will be using mainly the Seaborn and Pandas library to manipulate this data an
 The questions I have to be answered that I can find out through data manipulation and visualization are as follows:
     
 - [ ]1. Make a histogram of all the salaries.
-- [ ]2. Make a pie chart of all the job titles in the data set. Which appears the most common?
+- [ ]2. Make a pie chart of all the job titles in the data set. Which job title appears the most common?
 - [ ]3. What is the correlation between gender and salary?
 - [ ]4. Is there a disparity among race and salary?
 - [ ]5. How does age, education level and years of experience correlate with salary?
