@@ -8,13 +8,14 @@ The questions I have to be answered that I can find out through data manipulatio
     
 - [ ]1. Make a histogram of all the salaries.
 - [ ]2. Make a pie chart of the top 10 job titles in the data set. Which job title appears the most common?
-- [ ]3. What is the correlation between gender and salary?
-- [ ]4. Is there a disparity among race and salary?
-- [ ]5. How does age, education level and years of experience correlate with salary?
-- [ ]6. Which of the genders is more represented in this list?
-- [ ]7. What is the correlation between seniority and race?
-- [ ]8. Is there a disparity between seniority and years of experience?
-- [ ]9. What jobs on average are the highest paying?
-- [ ]10. What jobs are the lowest paying?
+- [ ]3. What are the top jobs for each gender?
+- [ ]4. What is the correlation between gender and salary?
+- [ ]5. Is there a disparity among race and salary?
+- [ ]6. How does age, education level and years of experience correlate with salary?
+- [ ]7. Which of the genders is more represented in this list?
+- [ ]8. What is the correlation between seniority and race?
+- [ ]9. Is there a disparity between seniority and years of experience?
+- [ ]10. What jobs on average are the highest paying?
+- [ ]11. What jobs are the lowest paying?
 
 
