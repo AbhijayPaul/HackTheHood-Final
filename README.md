@@ -10,6 +10,7 @@ The questions I have to be answered that I can find out through data manipulatio
 - [x] 2. Make a pie chart of the top 10 job titles in the data set. Which job title appears the most common?
 - [x] 3. What are the top jobs for each gender?
 - [x] 4. What is the correlation between gender and salary?
+- [ ] What are the top jobs in each country?
 - [ ] 5. Is there a disparity among race with salary?
 - [ ] 6. How does age, education level and years of experience correlate with salary?
 - [ ] 7. Which of the genders is more represented in this list?
