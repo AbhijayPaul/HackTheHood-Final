@@ -11,6 +11,7 @@ The questions I have to be answered that I can find out through data manipulatio
 - [x] What are the top jobs for each gender?
 - [x] What is the correlation between gender and salary?
 - [x] What are the top jobs in each country?
+- [ ] What countries pay the most on average?
 - [ ] Is there a disparity among race with salary?
 - [ ] How does age, education level and years of experience correlate with salary?
 - [ ] Which of the genders is more represented in this list?
