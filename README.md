@@ -17,5 +17,3 @@ The questions I have to be answered that I can find out through data manipulatio
 - [ ] Which of the genders is more represented in this list?
 - [ ] What is the correlation between seniority and race?
 - [ ] Is there a disparity between seniority and years of experience?
-- [ ] What jobs on average are the highest paying?
-- [ ] What jobs are the lowest paying?
