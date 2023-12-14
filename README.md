@@ -1,7 +1,10 @@
 # HackTheHood Final Salary Data
 
 This dataset that I chose gives data on salary information about various jobs from assorted industries around the world.
-I chose it because this dataset seemed to be easy to use and there seemed to be interesting questions that could be asked about it.
+I chose it because this dataset seemed to be easy to use and there seemed to be 
+interesting questions that could be asked about how each variable, 
+or combination thereof, affects how much one earns from their job. 
+I looked at several variables such as Gender, Race, and Country to see how it affects the salary one earns in various ways.
 I will be using mainly the Seaborn and Pandas library to manipulate this data and find out what I can from it.
 
 The questions I have to be answered that I can find out through data manipulation and visualization are as follows:
