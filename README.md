@@ -18,6 +18,5 @@ The questions I have to be answered that I can find out through data manipulatio
 - [x] Is there a disparity among race with salary in the North American Countries?
 - [x] What Job Titles earn the most in this DataFrame?
 - [x] What Job Titles earn the least?
-- [ ] Which of the genders is more represented in this list?
-- [ ] How does age, education level and years of experience correlate with salary?
-- [ ] Is there a disparity between seniority and years of experience?
+- [x] Which of the genders is more represented in this list?
+
